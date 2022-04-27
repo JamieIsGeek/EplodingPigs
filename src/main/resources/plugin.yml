@@ -1,0 +1,7 @@
+name: Exploding_Pigs
+version: '${project.version}'
+main: dev.jamieisgeek.exploding_pigs.Exploding_Pigs
+api-version: 1.18
+prefix: [ ! ]
+authors: [ JamieIsGeek ]
+description: A plugin to make pigs explode on hit
